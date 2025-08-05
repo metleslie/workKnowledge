@@ -165,12 +165,10 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false,
-      "yet-another-obsidian-synchronizer:YAOS": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "52f23c58df42883a",
+  "active": "8d75a2f30ee642d6",
   "lastOpenFiles": [
     "八股文/操作系统.md",
     "八股文/测试.md",
