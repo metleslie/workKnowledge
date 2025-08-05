@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "9633798a2385a6dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc011ed7925c3843",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d75a2f30ee642d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "八股文/操作系统.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "操作系统"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee0add65ff6fd0e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "569b86ca6bdd2864",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48100900842a203d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "0dfe6dd8f0af0a6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "61dc02c660be6d0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99412b7b5fab4ede",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b2b6c4f50103b9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e25eb6f5ee9ee188",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "八股文/Java集合.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Java集合 的反向链接列表"
+            }
+          },
+          {
+            "id": "77e44d1448808420",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "八股文/Java集合.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Java集合 的出链列表"
+            }
+          },
+          {
+            "id": "126a9fb333a2363c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "52f23c58df42883a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "八股文/Java集合.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Java集合 的大纲"
+            }
+          },
+          {
+            "id": "0027f8d5643d4956",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8d75a2f30ee642d6",
+  "lastOpenFiles": [
+    "八股文/Java并发编程.md",
+    "八股文/操作系统.md",
+    "八股文/Java集合.md",
+    "Pasted image 20250731151315.png",
+    "Pasted image 20250731150738.png",
+    "Pasted image 20250731150616.png",
+    "Pasted image 20250725160242.png",
+    "八股文/JavaSE.md",
+    "未命名.md",
+    "八股文",
+    "欢迎.md"
+  ]
+}
