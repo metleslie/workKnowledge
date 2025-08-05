@@ -10,15 +10,10 @@
 然后在上面的文件夹里执行git命令
 
 git init
-
 git add.
-
 git remote add origin https://github.com/你的用户名/仓库名.git
-
 git push -u origin master (master可以换成任意分支)
-
 这时候会让你输入账户密码
-
 Username for 'https://github.com': 你的账户名
 Password for 'https://metleslia@github.com':
 密码现在是采用key的形式，需要生成key在github里面
@@ -40,4 +35,12 @@ Password for 'https://metleslia@github.com':
 
 输入生成的个人令牌这时候就关联到分支
 
-在Obisidian里面找到第三方工具（安全模式关掉），搜索GIT
+在Obisidian里面找到第三方工具（安全模式关掉），搜索GIT，找到第一个安装且应用
+设置这几个基本选项就可以，找不到的话可以试着搜索一下
+- Vault backup interval：设置为自动提交的间隔，例如 5 分钟（单位：分钟）。
+- Commit message：自定义提交信息，例如 Auto commit from Obsidian。
+- Auto push：启用，以便每次提交后自动推送到 GitHub。
+- Pull updates on startup：启用，确保启动 Obsidian 时自动拉取最新更改。
+
+### 第二种
+就是直接在仓库创建文件，然后直接clone到本地，在再这个文件夹下面创建你的obisidian
