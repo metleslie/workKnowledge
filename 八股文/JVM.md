@@ -259,4 +259,7 @@ Eden空间和两个Survivor空间（From区和To）
 
 ## 11.新生代区域划分
 新生代的垃圾回收算法用了标记-复制算法，因为新生代对象存活较少，每次复制少量的对象效率比较高。
-基于这种算法，虚拟机将内存分为一大块Eden区和两小块survivor区，每次分配内存只使用Eden区和一小块survivor区。GC时，
+基于这种算法，虚拟机将内存分为一大块Eden区和两小块survivor区，每次分配内存只使用Eden区和一小块survivor区。GC时，Eden和survicor区仍然存活的对象一次性复制到另一块survivor区，然后直接清理到eden区和另一块survivor区，默认Eden区和survivor的大小比例是8:1。
+
+
+## 12.对象什么时候到老年区
